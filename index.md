@@ -29,7 +29,7 @@ developer for the same.
 
 ## Academic Background
 ### _Vellore Institute of Technology, Vellore_
-**Bachelor of Technology*** (Computer Science and Engineering, 2017-21)
+**Bachelor of Technology** (Computer Science and Engineering, 2017-21)
 ### _Sri Guru Harkrishan Model School, Chandigarh_
 **Senior School Graduation** (12th CBSE board, 2017)
 ### _Vivek High School, Chandigarh_

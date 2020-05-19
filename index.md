@@ -7,7 +7,7 @@ A computer science student with an unaltered interest in Java. Android and techn
 A basic android app to track cases of COVID-19 globally.
 
 ## Work Experience
-### _[50Hands Organisation, Canada](https://50hands.org/)_
+### _[50Hands Organisation](https://50hands.org/), Canada_
 **Technology Intern**, Platform Development Team (Java)
 - Remote Internship
 - May 2020 to present
@@ -28,11 +28,11 @@ developer for the same.
 - Event Organizer, GraVITas'18, VIT Vellore
 
 ## Academic Background
-### _Vellore Institute of Technology, Vellore_
+### _[Vellore Institute of Technology](https://vit.ac.in/), Vellore_
 **Bachelor of Technology** (Computer Science and Engineering, 2017-21)
-### _Sri Guru Harkrishan Model School, Chandigarh_
+### _[Sri Guru Harkrishan Model School](http://www.sghms.com/), Chandigarh_
 **Senior School Graduation** (12th CBSE board, 2017)
-### _Vivek High School, Chandigarh_
+### _[Vivek High School](http://vivekhigh.in/), Chandigarh_
 **High School Graduation** (10th CBSE board, 2015)
 
 ## Languages

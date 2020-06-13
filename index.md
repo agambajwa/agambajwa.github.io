@@ -2,7 +2,7 @@
 
 A computer science student with an unaltered interest in Java. Android and technology enthusiast, keeping up with all the new technologies that emerge with an aim of making the world a better place using knowledge.
 
-## Academic Background
+## Projects
 ### [COVID-19 Tracker Android App](https://github.com/agambajwa/COVIDTracker)
 A basic android app to track cases of COVID-19 globally.
 
@@ -39,7 +39,6 @@ developer for the same.
 - English
 - Punjabi
 - Hindi
-- Spanish
 
 ## Links
 - [GitHub](https://github.com/agambajwa)

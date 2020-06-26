@@ -4,14 +4,14 @@ A computer science student with an unaltered interest in Java. Android and techn
 
 ## Projects
 ### [COVID-19 Tracker Android App](https://github.com/agambajwa/COVIDTracker)
-- May 2020
+- May 2020\
 A basic android app to track cases of COVID-19 globally.
 
 ### [HackerRank Solutions](https://github.com/agambajwa/Hacker-Rank)
 Solutions for [HackerRank](https://www.hackerrank.com/)
 
 ### Research work on Password-Free Environment using AI and Cryptography
-- May 2020 - Present
+- May 2020 - Present\
 The research work is related to creating a password free environment where the user would no longer require to remember a password. The system would automatically recognize the password through a unique system generated ID for every user. The ID would be encrypted using a symmetric encryption scheme.
 
 ## Work Experience

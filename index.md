@@ -32,7 +32,6 @@ A computer science student with an unaltered interest in Java. Android and techn
 developer for the same.
 - Beginner in **Android App Development** using Java and XML.
 - Beginner in **App Development** using Flutter.
-- Fairly proficient in scripting and programming languages such as **C, C++, HTML, CSS and JavaScript**.
 - Fairly proficient in graphic designing using **Adobe Photoshop, Illustrator** and other means.
 - Willingness and ability to learn new skills and methods to keep up with the advancements in the scientific and technological community.
 - Ability to work well with a team, as a leader or as a member.
@@ -49,12 +48,12 @@ developer for the same.
 - June 2020
 - [Certificate](https://insidesherpa.s3.amazonaws.com/completion-certificates/Microsoft/ms2CK9b2SCWGXwPMS_Microsoft_8bCZcyqnvtcQME9CH_completion_certificate.pdf)
 
-### Scrum Fundamentals Certified (SFC)
+### _Scrum Fundamentals Certified (SFC)_
 - [SCRUMstudy - Accreditation Body for Scrum and Agile](https://www.scrumstudy.com/)
 - July 2020
 - [Certificate](https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-AgampreetSinghBajwa-793634.pdf)
 
-### Java (Basic) Certificate
+### _Java (Basic) Certificate_
 - [HackerRank](https://www.hackerrank.com/)
 - June 2020
 - [Certificate](https://www.hackerrank.com/certificates/db0802d66156)

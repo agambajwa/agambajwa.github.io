@@ -31,6 +31,7 @@ A computer science student with an unaltered interest in Java. Android and techn
 - Proficient and interested in the **Java** programming language, aiming to be a full-stack
 developer for the same.
 - Beginner in **Android App Development** using Java and XML.
+- Beginner in **App Development** using Flutter.
 - Fairly proficient in scripting and programming languages such as **C, C++, HTML, CSS and JavaScript**.
 - Fairly proficient in graphic designing using **Adobe Photoshop, Illustrator** and other means.
 - Willingness and ability to learn new skills and methods to keep up with the advancements in the scientific and technological community.
@@ -41,6 +42,22 @@ developer for the same.
 - Teaching Volunteer, U&I NGO, Vellore
 - Designer, Student Outreach, VIT Vellore
 - Event Organizer, GraVITas'18, VIT Vellore
+
+## Certifications/Achievements
+### _Engineering: Undergraduate & Masters Virtual Internship Platform_
+- Under [Microsoft](https://www.microsoft.com/en-in) and [InsiderSherpa](https://in.insidesherpa.com)
+- June 2020
+- [Certificate](https://insidesherpa.s3.amazonaws.com/completion-certificates/Microsoft/ms2CK9b2SCWGXwPMS_Microsoft_8bCZcyqnvtcQME9CH_completion_certificate.pdf)
+
+### Scrum Fundamentals Certified (SFC)
+- [SCRUMstudy - Accreditation Body for Scrum and Agile](https://www.scrumstudy.com/)
+- July 2020
+- [Certificate](https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-AgampreetSinghBajwa-793634.pdf)
+
+### Java (Basic) Certificate
+- [HackerRank](https://www.hackerrank.com/)
+- June 2020
+- [Certificate](https://www.hackerrank.com/certificates/db0802d66156)
 
 ## Academic Background
 ### _[Vellore Institute of Technology](https://vit.ac.in/), Vellore_

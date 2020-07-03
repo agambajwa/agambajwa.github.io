@@ -7,19 +7,19 @@ A computer science student with an unaltered interest in Java. Android and techn
 - May 2020
 - A basic android app to track cases of COVID-19 globally.
 
-### [HackerRank Solutions](https://github.com/agambajwa/Hacker-Rank)
-- Solutions for [HackerRank](https://www.hackerrank.com/)
-
-### [LeetCode Solutions](https://github.com/agambajwa/Leet-Code)
-- Solutions for [LeetCode](https://leetcode.com) in Java
+### [Flutter](https://github.com/agambajwa/Flutter)
+- June 2020 - Present
+- Various implementations of Flutter and its widgets 
 
 ### Research work on Password-Free Environment using AI and Cryptography
 - May 2020 - Present
 - The research work is related to creating a password free environment where the user would no longer require to remember a password. The system would automatically recognize the password through a unique system generated ID for every user. The ID would be encrypted using a symmetric encryption scheme.
 
-### [Flutter](https://github.com/agambajwa/Flutter)
-- June 2020 - Present
-- Various implementations of Flutter and its widgets 
+### [HackerRank Solutions](https://github.com/agambajwa/Hacker-Rank)
+- Solutions for [HackerRank](https://www.hackerrank.com/)
+
+### [LeetCode Solutions](https://github.com/agambajwa/Leet-Code)
+- Solutions for [LeetCode](https://leetcode.com) in Java
 
 ## Work Experience
 ### _[50Hands Organisation](https://50hands.org/), Canada_

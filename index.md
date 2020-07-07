@@ -7,6 +7,10 @@ A computer science student with an unaltered interest in Java. Android and techn
 - May 2020
 - A basic android app to track cases of COVID-19 globally.
 
+### [Flutter Firebase CRUD](https://github.com/agambajwa/flutter-firebase-crud)
+- July 2020
+- Flutter app to simulate CRUD operations on Firebase
+
 ### [Flutter](https://github.com/agambajwa/Flutter)
 - June 2020 - Present
 - Various implementations of Flutter and its widgets 

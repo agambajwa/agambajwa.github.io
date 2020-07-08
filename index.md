@@ -11,6 +11,10 @@ A computer science student with an unaltered interest in Java. Android and techn
 - July 2020
 - Flutter app to simulate CRUD operations on Firebase
 
+### [To-Do List App](https://github.com/agambajwa/ToDoList-App)
+- July 2020
+- A simple yet elegant to-do listing app made using Flutter and Sqflite. 
+
 ### [Flutter](https://github.com/agambajwa/Flutter)
 - June 2020 - Present
 - Various implementations of Flutter and its widgets 

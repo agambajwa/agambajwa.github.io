@@ -89,4 +89,4 @@ developer for the same.
 ## Contact 
 Email : agambajwa2207@gmail.com
 
-<iframe src="https://discordapp.com/widget?id=737504783937830924&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<iframe src="https://discordapp.com/widget?id=737504783937830924&theme=dark" width="200" height="300" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
